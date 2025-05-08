@@ -72,5 +72,5 @@ While the script currently outputs data in a Tab-Separated Values (TSV) format, 
 - **Human-Readable:** Data in TSV format can be quickly previewed using simple text editors.
 
 The choice between JSON and TSV depends on your requirements. For complex or nested datasets and better compatibility with web services, JSON would be a beneficial format; for simpler, flat data structures and ease of use with traditional tools, TSV remains an effective choice.
-```
+
 
